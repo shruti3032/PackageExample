@@ -6,6 +6,6 @@ setup(
     packages=find_packages(),
     install_requires=[],
     description="A package for automating dealership workflows",
-    author="Your Name",
+    author="Shruti Kamble",
     license="MIT",
 )
